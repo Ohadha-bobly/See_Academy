@@ -1,0 +1,1 @@
+print("Love is PLP and Python! 💖 🐍")
